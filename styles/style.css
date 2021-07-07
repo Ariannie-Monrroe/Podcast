@@ -401,7 +401,7 @@ small{
         width: max-content;
     }
 
-    nav{
+    .first_mn{
         display: flex;
         flex-wrap: wrap;
         height: 300px;
@@ -417,12 +417,12 @@ small{
         margin-left: 12px;
     }
 
-    .nav_content{
+    .mn_content{
         width: 628px;
         font: var(--body2);
     }
 
-    .nav_btn button{
+    .mn_btn button{
         margin-top: 56px;
         width: 226px;
         color: #000;
